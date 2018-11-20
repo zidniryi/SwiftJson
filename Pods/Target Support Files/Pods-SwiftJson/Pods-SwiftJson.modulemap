@@ -1,0 +1,6 @@
+framework module Pods_SwiftJson {
+  umbrella header "Pods-SwiftJson-umbrella.h"
+
+  export *
+  module * { export * }
+}
